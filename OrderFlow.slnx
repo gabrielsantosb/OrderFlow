@@ -8,6 +8,7 @@
     <Project Path="src/OrderFlow.Api/OrderFlow.Api.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/OrderFlow.IntegrationTests/OrderFlow.IntegrationTests.csproj" />
     <Project Path="tests/OrderFlow.UnitTests/OrderFlow.UnitTests.csproj" />
   </Folder>
 </Solution>
